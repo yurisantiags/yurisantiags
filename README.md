@@ -3,6 +3,7 @@
 
 ## Skills
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
 ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery) 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) 
@@ -20,7 +21,8 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma) 
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop) 
 ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva) 
-![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender)
+![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender) 
+
 
 
 
